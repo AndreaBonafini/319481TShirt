@@ -1,0 +1,5 @@
+﻿Processing
+
+drawing a heart with 2 variables
+use for loop with one variable to create a series of horizontal hearts
+new for loop inside the first one to create a series of vertical hearts
