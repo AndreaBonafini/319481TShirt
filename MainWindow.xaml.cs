@@ -1,4 +1,8 @@
-﻿using System;
+/*Andrea Bonafini
+*March 25,2019
+*Creating a Tshirt through canvas and for loop
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
